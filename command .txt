@@ -1,0 +1,12 @@
+git init
+git log --oneline
+  git status
+git reset
+git rebase
+git merge
+git branch
+git branch
+git checkout -b
+  git config --global user.name "hjdhfjwsn"
+  git config --global user.email "gfdjvmk@gkdfkgj"
+  
